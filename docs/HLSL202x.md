@@ -13,3 +13,5 @@ which caused inconsistency.
 
 As a secondary goal, HLSL 202x strives to make language behaviors more regular
 to aid in a long term goal of producing a formal language specification.
+
+Some silly change
